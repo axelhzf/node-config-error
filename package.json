@@ -1,0 +1,6 @@
+{
+  "name": "node-config-error",
+  "dependencies": {
+    "config": "^1.11.0"
+  }
+}
